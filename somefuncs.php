@@ -2,7 +2,7 @@
 
 function world()
 {
-   return "world";
+   return 'world';
 }
 
 function hello()
