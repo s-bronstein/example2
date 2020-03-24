@@ -1,10 +1,10 @@
 <?php
 
 $worlds = [
-    "world-1",
-    "world-2",
-    "world-3",
-    "world-4",
+    'world-1',
+    'world-2',
+    'world-3',
+    'world-4',
 ];
 
 $currentWorld = 0;
